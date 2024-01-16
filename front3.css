@@ -1,0 +1,38 @@
+body {
+  background-color: #fff;
+  font-family: sans-serif;
+}
+
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+main {
+  padding: 20px;
+}
+
+section.contenido {
+  padding: 20px;
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+}
